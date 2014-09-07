@@ -1,0 +1,29 @@
+{
+    "stores":[
+
+        {
+        "product_id":1,
+       "regular_price": 23,
+       "sales_price": 15,
+       "description": "Original sin",
+       "product_photo": "Apple.png",
+       "product_name": "Apple"
+       },
+        {
+        "product_id":2,
+       "regular_price": 50,
+       "sales_price": 21,
+       "description": "Swift is Bananas",
+       "product_photo": "Banana.png",
+       "product_name": "Bananas"
+       },
+        {
+        "product_id":3,
+       "regular_price": 17,
+       "sales_price": 12,
+       "description": "That's so peachy",
+       "product_photo": "Peach.png",
+       "product_name": "Peach"
+       }
+              ]
+}
